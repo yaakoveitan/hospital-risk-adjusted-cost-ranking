@@ -12,7 +12,6 @@ This project evaluates how patient complexity affects hospital cost comparisons 
 
 ## Data
 Source: CMS Medicare Inpatient Hospital Public Use File  
-Unit of analysis: hospital-level aggregates
 
 ## Methods
 - Feature engineering of cost and utilization metrics
