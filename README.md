@@ -28,6 +28,3 @@ Unit of analysis: hospital-level aggregates
 ## Files
 - `risk_adjusted_hospital_ranking.ipynb`: full analysis
 - `risk_adjusted_hospital_cost_rankings.pdf`: summary presentation
-
-## Disclaimer
-This project is for educational and portfolio purposes only and does not constitute clinical or policy recommendations.
