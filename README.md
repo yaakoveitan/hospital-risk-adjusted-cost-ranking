@@ -1,6 +1,6 @@
 # hospital-risk-adjusted-cost-ranking
 
-# Risk-Adjusted Hospital Cost Rankings Using Medicare Data
+# Ranking Risk-Adjusted Hospital Cost Using Medicare Data
 
 ## Overview
 This project evaluates how patient complexity affects hospital cost comparisons using CMS Medicare inpatient hospital public use data. A regression-based risk adjustment model is used to estimate expected cost per discharge, and hospital rankings are compared before and after adjustment.
